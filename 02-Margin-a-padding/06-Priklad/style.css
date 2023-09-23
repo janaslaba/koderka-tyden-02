@@ -3,5 +3,25 @@ body {
 	font-size: 18px;
 	line-height: 1.5;
 }
+		
+h1 {
+	margin: 0;
+	padding: 0;
+}
 
-/* -------------------------------- */
+.odstavec1 {
+	margin: 20px 0;
+}
+
+.odstavec2 {
+	margin: 0;
+}
+
+.box {
+	box-sizing: border-box;
+	width: 600px;
+	margin: 50px auto;
+	background-color: lightblue;
+	padding: 30px;
+	border: 2px solid black;
+}
